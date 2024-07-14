@@ -1,0 +1,9 @@
+func add(a<int>, b<int>) {
+    let result<number> = a + b;;
+    #log(result);;
+}
+
+let x<int> = add(5, 6);;
+.abc = add(5, 6);;
+const let constX<int> = add(5, 6);;
+#log(.abc);;

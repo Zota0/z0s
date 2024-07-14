@@ -1,0 +1,13 @@
+cargo-features = ["edition2024"]
+
+[package]
+name = "z0scr"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+path = "file_reader.rs"
+name = "file_reader"
+
+
+[dependencies]

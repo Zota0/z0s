@@ -1,0 +1,22 @@
+
+# Ignore Rust targets
+**/rs/target
+**/rust/target
+
+# Ignore some old files
+/old/**/lexer.py
+old/src/go/
+
+# Ingnore Python cache
+__pycache__
+
+# Ignore VSCode settings
+.vscode
+
+# Ingore old files
+/old
+
+# Ignore .env files
+.env
+.env.*
+
