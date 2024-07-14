@@ -1,4 +1,4 @@
-# **z0 script** - *Zota0's* scripting language
+# **z0 script** - **Zota0***'s* scripting language
 
 ## **Why?**
 
